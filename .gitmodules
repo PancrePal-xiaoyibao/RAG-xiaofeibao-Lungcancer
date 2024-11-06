@@ -8,3 +8,7 @@
 	path = src/MinerU
 	url = https://github.com/opendatalab/MinerU
 	branch = master
+[submodule "dify"]
+	path = dify
+	url = https://github.com/langgenius/dify
+	branch = main
